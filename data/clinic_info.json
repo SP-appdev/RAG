@@ -1,0 +1,26 @@
+{
+  "General": {
+    "Hours": "We are open Monday to Friday from 9 AM to 5 PM, and Saturday from 10 AM to 2 PM.",
+    "Location": "123 Main Street, Springfield, USA",
+    "Contact": "Phone: +1 555-1234, Email: info@springfieldclinic.com"
+  },
+  "Appointments": {
+    "Booking": "Appointments can be booked online through our website or by calling the clinic.",
+    "Cancellation": "Cancellations must be made at least 24 hours before your scheduled appointment.",
+    "WalkIn": "Walk-in patients are accepted based on availability, but prior booking is recommended."
+  },
+  "Services": {
+    "GeneralCheckup": "We provide routine health checkups including blood tests and physical exams.",
+    "Pediatrics": "Our pediatric department handles children’s health from birth to 18 years.",
+    "Vaccinations": "We offer a full range of vaccinations for children and adults."
+  },
+  "Billing": {
+    "Insurance": "We accept major insurance providers including Aetna, Blue Cross, and Cigna.",
+    "PaymentMethods": "Payments can be made via cash, credit card, or online transfer.",
+    "RefundPolicy": "Refunds are issued within 7 business days for cancelled appointments."
+  },
+  "Emergency": {
+    "24HourService": "Our emergency department is open 24/7.",
+    "Ambulance": "Ambulance service is available for critical emergencies and can be called via 911."
+  }
+}
