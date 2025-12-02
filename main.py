@@ -1,5 +1,5 @@
 import json
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
@@ -7,7 +7,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 # SambaNova API setup
 # ----------------------------
 SAMBA_API_KEY = "95bbdcbb-46ab-451a-b341-e284e7ca9f4e"
-LLM_MODEL = "Llama-4-Maverick"  
+LLM_MODEL = "Meta-llama-3" 
 
 def generate_answer(prompt: str, llm_model: str = LLM_MODEL) -> str:
     """Generate answer using SambaNova LLM via OpenAI-compatible API"""
